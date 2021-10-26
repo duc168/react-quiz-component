@@ -1,0 +1,9 @@
+.container {
+    padding: 1rem;
+    margin: 1rem;
+    user-select: none;
+    &:hover {
+        cursor: pointer;
+        opacity: 0.8;
+    }
+}
